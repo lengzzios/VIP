@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kasar.pubgmobile</string>
+				<string>com.LengZzIOS.pubgmobile</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Kasar - PubgMobile</string>
+				<string>LengZzIOS - PubgMobile</string>
 			</dict>
 		</dict>
 	</array>

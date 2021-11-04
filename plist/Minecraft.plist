@@ -17,25 +17,25 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://kasarkhatari.github.io/KasarIcon.png</string>
+					<string>https://lengzzios.github.io/VIP/LengZzIOSIcon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://kasarkhatari.github.io/KasarIcon.png</string>
+					<string>https://lengzzios.github.io/VIP/LengZzIOSIcon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.Kasar.Minecraft</string>
+				<string>com.LengZzIOS.Minecraft</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Kasar - Minecraft</string>
+				<string>LengZzIOS - Minecraft</string>
 			</dict>
 		</dict>
 	</array>
