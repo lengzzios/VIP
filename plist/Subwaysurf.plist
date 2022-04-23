@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.LengZzIOS.Chimera</string>
+				<string>com.LengZzIOS.Subwaysurf</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>LengZzIOS - Chimera</string>
+				<string>LengZzIOS - Subwaysurf</string>
 			</dict>
 		</dict>
 	</array>
